@@ -1,5 +1,5 @@
 {
- "manifest_version": 1,
+ "manifest_version": 2,
  "name": "Connard de Virus",
  "version": "1.0.0",
  "description": "This is an extension that replaces the words COVID, COVID19 and coronavirus with Connard de virus as in French singer Renaud's lyrics",
